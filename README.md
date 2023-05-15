@@ -20,10 +20,14 @@ in this project we are going to add some functions and resource interface in ord
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
+* first you need to deploy the standard nft contarct in your liked account like 0x02
+* second you need to deploy the crypto poops nft contract in another account like 0x01
+* third you need to create an empty collection in any account in transaction section
+* fourth you need to mint an nft by adding meta data in transaction section 
+* fifth you nned to get id of nft you minted in script part
+* lastly just read the metadata in the nft
 ```
-code blocks for commands
+Deploy,Deploy,Send,Send,Execute,Execute
 ```
 
 ## Help
