@@ -32,19 +32,21 @@ Deploy,Deploy,Send,Send,Execute,Execute
 
 ## Help
 
-Any advise for common problems or issues.
+as you can check any doubts or command of line you can use finished contract as an giude line because as it is an tested contract it is 101% working but in case if ther is some doubt emrges feel free to contact on email given below :
+
+
 ```
-command to run if program contains helper info
+iamoneofthechoosen1@gmail.com
 ```
 
 ## Authors
 
 Contributors names and contact info
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+metacrafters 
+ [@DabiIsHere](iamoneofthechoosen1@gmail.com)
 
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the [DabiIsHere] License - see the LICENSE.md file for details
