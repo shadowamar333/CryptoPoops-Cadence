@@ -11,7 +11,12 @@ in this project we are going to add some functions and resource interface in ord
 
 * the example program file is attached to the repository where you can copy or download the file and paste in any cadence running enviornment i prefere to use flow playground
 
-* the repository contain two types of contract finishe contract and 
+* the repository contain two types of contract finished contract and unfinished contract you can take the finished contract as an guideline and try to finish the unfinished contract all by yourself
+* the finished program contain two files of contract ,two files of transaction and two files of script which are :
+*   one file of contact is the standard file on non-fungible-token and other file is the completed file of nft cryptopoops
+*   one file of transaction  is to create an empty collection for account and other file is to create an nft in th collection by adding metadata
+*   one file of script is to read id of the created nft and other file is to read metadat of nft
+*   you need two download these files and paste in the respected places and the your good to GO!!!
 
 ### Executing program
 
