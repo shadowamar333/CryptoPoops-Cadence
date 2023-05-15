@@ -1,16 +1,17 @@
 # CryptoPoops-borrowAuthNFT
-Simple overview of use/purpose.
+it is an simple project of creating an simple nft having basics requirements like deposit,withdrwing and full fill the requirements for standard contract in nft ,in this project we are going to make this contracted nft capable of reading metadata of nft publically and the name of nft is CryptoPoops
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+in this project we are going to add some functions and resource interface in order to make this nft capable of reading metadata of nft which is our Cryptopoops we are making this possible by adding an function called burrow auth in which we downcast borrow nft using auth keyword and add an resource interface called mycollectionpublic
 
 ## Getting Started
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* the example program file is attached to the repository where you can copy or download the file and paste in any cadence running enviornment i prefere to use flow playground
+
+* the repository contain two types of contract finishe contract and 
 
 ### Executing program
 
