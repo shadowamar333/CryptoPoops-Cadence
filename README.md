@@ -1,4 +1,4 @@
-# CryptoPoops-borrowAuthNFT
+# CryptoPoops-Cadence
 it is an simple project of creating an simple nft having basics requirements like deposit,withdrwing and full fill the requirements for standard contract in nft ,in this project we are going to make this contracted nft capable of reading metadata of nft publically and the name of nft is CryptoPoops
 
 ## Description
@@ -36,7 +36,7 @@ as you can check any doubts or command of line you can use finished contract as 
 
 
 ```
-iamoneofthechoosen1@gmail.com
+amarnath759498@gmail.com
 ```
 
 ## Authors
@@ -44,9 +44,9 @@ iamoneofthechoosen1@gmail.com
 Contributors names and contact info
 
 metacrafters 
- [@DabiIsHere](iamoneofthechoosen1@gmail.com)
+ [@AmarShahdow](amarnath759498@gmail.com)
 
 
 ## License
 
-This project is licensed under the [DabiIsHere] License - see the LICENSE.md file for details
+This project is licensed under the [Amarsahdow] License - see the LICENSE.md file for details
